@@ -4,3 +4,27 @@
 	object-fit:cover;
 	border-radius:50%;
 }
+p {
+	color: yellow;
+}
+#header {
+	text-align: center;
+	font-family: "Arial Black";
+	color: yellow;
+}
+span {
+	text-align: center;
+	font-family: "Arial Black";
+	color: yellow;
+	margin: 5vw;
+}
+body {
+	font-family: "Arial";
+	color: yellow;
+	background-color: red;
+}
+#description {
+	text-align: center;
+	margin: auto;
+	width: 0 auto;
+}
