@@ -28,3 +28,6 @@ body {
 	margin: auto;
 	width: 0 auto;
 }
+a {
+	color: yellow;
+}
