@@ -1,7 +1,7 @@
 .myimg{
-	width:300px;
-	height:300px;
-	object-fit:cover;
+	width:250px;
+	height:250px;
+	object-fit:fill;
 	border-radius:50%;
 }
 p {
@@ -30,4 +30,16 @@ body {
 }
 a {
 	color: yellow;
+}
+h1 {
+	font-family: "Times New Roman";
+}
+a {
+	font-family: "Times New Roman";
+}
+.myimg {
+	width:250px;
+	height:250px;
+	object-fit:fill;
+	border-radius:50%;
 }
